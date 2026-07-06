@@ -1,6 +1,6 @@
 # kinnector-design
 
-UI/UX specifications, design assets, style guides, and design novel specifications for the Kinnector platforms.
+UI/UX specifications, design assets, style guides, and design novel specifications for the **kinnector** platforms.
 
 ## Key Files & Assets
 
